@@ -1,0 +1,23 @@
+body {
+    background-color: #93d4ff;
+    background-image: 
+    linear-gradient(45deg, #ff7d7d 25%, #8a1f1f00 25%, #b3313100 75%, #ff7d7d 75%, #ff7d7d), 
+    linear-gradient(45deg, #ff7d7d 25%, transparent 26%,  #ff000047 74%, #ff7d7d 75%, #ff7d7d);
+    background-size: 80px 80px;
+    background-position: 0 0, 40px 40px;
+	
+    text-align: center;
+    color: #00132f;
+}
+h3{
+
+}
+#guess_button{
+	background: rgb(158 201 255);
+    border-color: rgb(158 201 255);
+}
+#val{
+	border-color: #ff7c7cbd;
+    background: #ffc5c5db;
+    color: #007590;
+}
