@@ -1,0 +1,7 @@
+body, html{
+    height: 100%;
+  }
+
+body {
+    background: linear-gradient(to top right, rgb(14, 155, 14), rgb(219, 125, 37)) no-repeat;
+  }
